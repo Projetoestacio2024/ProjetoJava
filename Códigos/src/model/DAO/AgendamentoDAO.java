@@ -10,7 +10,7 @@ import model.Agendamento;
 
 /**
  *
- * @author Paula
+ * @author Thalles
  */
 public class AgendamentoDAO {
     
